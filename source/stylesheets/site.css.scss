@@ -1,24 +1,172 @@
+// Reset
+
 body {
-  background-color: #fbc547;
-  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+// Colors
+
+$yellow: #fada5e;
+$yellow-light: lighten($yellow, 5%);
+$yellow-dark: darken($yellow, 20%);
+$charcoal: #36454F;
+
+body {
+  background-color: $yellow;
+  color: $charcoal;
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
     "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
     "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
     "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 18vh 1rem;
-  text-align: center;
 }
 
-a {
-  color: rgba(#000, 0.7);
+.image-container {
+  display: flex;
+  justify-content: center;
+}
 
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
+.image-wrapper {
+  padding: .5rem;
+}
+
+.header-container {
+  background-color: $charcoal;
+  color: $yellow;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  padding: .5rem;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  padding: .5rem;
+}
+
+.intro-container {
+  padding-bottom: 1rem;
+}
+
+.intro-image-container {
+  margin-bottom: 1rem;
+}
+
+.intro-image {
+  height: 160px;
+}
+
+.subheading-container {
+  display: flex;
+  justify-content: center;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  background-color: $yellow-dark;
+}
+
+.subheading {
+  font-size: 1.25rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  text-transform: uppercase;
+}
+
+.parts-section {
+  padding-bottom: 1rem;
+}
+
+.parts-header-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.parts-header {
+  text-transform: uppercase;
+}
+
+.parts-instruction {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.pattern-row {
+  display: flex;
+  justify-content: space-between;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+
+  &.even {
+    background-color: $yellow-light;
   }
 }
 
-.middleman-logo {
-  margin-bottom: 1rem;
-  width: 10rem;
+.pattern-round {
+  font-weight: 800;
+  font-size: .75rem;
+  padding-right: .5rem;
+  min-width: 3rem;
+}
+
+.pattern-instructions {
+  flex-grow: 1;
+}
+
+.pattern-count {
+  font-size: .75rem;
+  padding-left: .5rem;
+}
+
+.finishing-header-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.finishing-header {
+  text-transform: uppercase;
+}
+
+.abbreviation-row {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+}
+
+.abbreviation {
+  font-weight: 800;
+  padding-right: .5rem;
+  min-width: 6rem;
+}
+
+.footer-container {
+  background-color: $charcoal;
+  color: $yellow;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: .5rem;
+}
+
+.footer-disclosure {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
