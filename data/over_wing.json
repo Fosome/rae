@@ -1,0 +1,29 @@
+{
+  "over_wing": [
+    {
+      "round": 1,
+      "instruction": "6 sc in a magic ring",
+      "stitch_count": 6
+    },
+    {
+      "round": 2,
+      "instruction": "[2 sc in each st] x 6",
+      "stitch_count": 12
+    },
+    {
+      "round": 3,
+      "instruction": "[2 sc in next st, 1 sc] x 6",
+      "stitch_count": 18
+    },
+    {
+      "round": 4,
+      "instruction": "[2 sc in next st, 2 sc] x 6",
+      "stitch_count": 24
+    },
+    {
+      "round": 5,
+      "instruction": "[2 sc in next st, 3 sc] x 3, switch to <strong>White</strong>, [2sc in next st, 3 sc] x 3, tie off",
+      "stitch_count": 30
+    }
+  ]
+}

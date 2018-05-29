@@ -1,0 +1,14 @@
+{
+  "cheek": [
+    {
+      "round": 1,
+      "instruction": "5 sc in a magic ring",
+      "stitch_count": 5
+    },
+    {
+      "round": 2,
+      "instruction": "[2 sc in each st] x 5, tie off",
+      "stitch_count": 10
+    }
+  ]
+}

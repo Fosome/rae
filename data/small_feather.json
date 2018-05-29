@@ -1,0 +1,59 @@
+{
+  "small_feather": [
+    {
+      "round": 1,
+      "instruction": "3 sc in a magic ring",
+      "stitch_count": 3
+    },
+    {
+      "round": 2,
+      "instruction": "[2 sc in each st] x 3",
+      "stitch_count": 6
+    },
+    {
+      "round": 3,
+      "instruction": "[2 sc in next st, 2 sc] x 2",
+      "stitch_count": 8
+    },
+    {
+      "round": 4,
+      "instruction": "[2 sc in next st, 3 sc] x 2",
+      "stitch_count": 10
+    },
+    {
+      "round": 5,
+      "instruction": "[2 sc in next st, 4 sc] x 2",
+      "stitch_count": 12
+    },
+    {
+      "round": 6,
+      "instruction": "12 sc",
+      "stitch_count": 12
+    },
+    {
+      "round": 7,
+      "instruction": "[sc2tog, 4 sc] x 2",
+      "stitch_count": 10
+    },
+    {
+      "round": "8-14",
+      "instruction": "10 sc",
+      "stitch_count": 10
+    },
+    {
+      "round": 15,
+      "instruction": "[sc2tog, 3 sc] x 2",
+      "stitch_count": 8
+    },
+    {
+      "round": "16-19",
+      "instruction": "8 sc",
+      "stitch_count": 8
+    },
+    {
+      "round": 20,
+      "instruction": "8 sc, tie off with length of yarn",
+      "stitch_count": 8
+    }
+  ]
+}

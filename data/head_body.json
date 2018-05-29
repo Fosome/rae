@@ -1,0 +1,132 @@
+{
+  "head_body_1": [
+    {
+      "round": "1",
+      "instruction": "6 sc in a magic ring",
+      "stitch_count": 6
+    },
+    {
+      "round": 2,
+      "instruction": "[2 sc in each st] x 6",
+      "stitch_count": 12
+    },
+    {
+      "round": 3,
+      "instruction": "[2 sc in next st, 3 sc] x 3",
+      "stitch_count": 15
+    },
+    {
+      "round": 4,
+      "instruction": "[2 sc in next st, 4 sc] x 3",
+      "stitch_count": 18
+    },
+    {
+      "round": 5,
+      "instruction": "[2 sc in next st, 5 sc] x 3",
+      "stitch_count": 21
+    },
+    {
+      "round": "6-7",
+      "instruction": "21 sc",
+      "stitch_count": 21
+    },
+    {
+      "round": 8,
+      "instruction": "[2 sc in next st, 6 sc] x 3",
+      "stitch_count": 24
+    },
+    {
+      "round": "9-10",
+      "instruction": "24 sc",
+      "stitch_count": 24
+    },
+    {
+      "round": 11,
+      "instruction": "[2 sc in next st, 5 sc] x 4",
+      "stitch_count": 28
+    },
+    {
+      "round": 12,
+      "instruction": "28 sc",
+      "stitch_count": 28
+    }
+  ],
+
+  "head_body_2": [
+    {
+      "round": 13,
+      "instruction": "[2 sc in next st, 13 sc] x 2",
+      "stitch_count": 30
+    },
+    {
+      "round": "14-15",
+      "instruction": "30 sc",
+      "stitch_count": 30
+    },
+    {
+      "round": 16,
+      "instruction": "[2 sc in next st, 9 sc] x 3",
+      "stitch_count": 33
+    },
+    {
+      "round": 17,
+      "instruction": "33 sc",
+      "stitch_count": 33
+    },
+    {
+      "round": 18,
+      "instruction": "[2 sc in next st, 10 sc] x 3",
+      "stitch_count": 36
+    },
+    {
+      "round": 19,
+      "instruction": "[2 sc in next st, 11 sc] x 3",
+      "stitch_count": 39
+    },
+    {
+      "round": "20-23",
+      "instruction": "39 sc",
+      "stitch_count": 39
+    },
+    {
+      "round": 24,
+      "instruction": "[sc2tog, 11 sc] x 3",
+      "stitch_count": 36
+    },
+    {
+      "round": 25,
+      "instruction": "36 sc",
+      "stitch_count": 36
+    },
+    {
+      "round": 26,
+      "instruction": "[sc2tog, 4 sc] x 6",
+      "stitch_count": 30
+    },
+    {
+      "round": 27,
+      "instruction": "[sc2tog, 3 sc] x 6",
+      "stitch_count": 24
+    },
+    {
+      "round": 28,
+      "instruction": "[sc2tog, 2 sc] x 6",
+      "stitch_count": 18
+    },
+    {
+      "round": 29,
+      "instruction": "[sc2tog, sc] x 6",
+      "stitch_count": 12
+    },
+    {
+      "round": 30,
+      "instruction": "[sc2tog] x 6",
+      "stitch_count": 6
+    },
+    {
+      "round": 31,
+      "instruction": "6 sl, tie off",
+      "stitch_count": "x"
+    }
+  ]
+}

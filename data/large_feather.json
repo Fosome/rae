@@ -1,0 +1,54 @@
+{
+  "large_feather": [
+    {
+      "round": 1,
+      "instruction": "3 sc in a magic ring",
+      "stitch_count": 3
+    },
+    {
+      "round": 2,
+      "instruction": "[2 sc in each st] x 3",
+      "stitch_count": 6
+    },
+    {
+      "round": 3,
+      "instruction": "[2 sc in next st, 2 sc] x 2",
+      "stitch_count": 8
+    },
+    {
+      "round": 4,
+      "instruction": "[2 sc in next st, 3 sc] x 2",
+      "stitch_count": 10
+    },
+    {
+      "round": 5,
+      "instruction": "[2 sc in next st, 4 sc] x 2",
+      "stitch_count": 12
+    },
+    {
+      "round": 6,
+      "instruction": "[2 sc in next st, 5 sc] x 2",
+      "stitch_count": 14
+    },
+    {
+      "round": 7,
+      "instruction": "14 sc",
+      "stitch_count": 14
+    },
+    {
+      "round": 8,
+      "instruction": "[sc2tog, 5 sc] x 2",
+      "stitch_count": 12
+    },
+    {
+      "round": "9-24",
+      "instruction": "12 sc",
+      "stitch_count": 12
+    },
+    {
+      "round": 25,
+      "instruction": "12 sc, tie off",
+      "stitch_count": 12
+    }
+  ]
+}

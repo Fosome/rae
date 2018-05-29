@@ -1,0 +1,52 @@
+{
+  "under_wing_1": [
+    {
+      "round": 1,
+      "instruction": "6 sc in a magic ring",
+      "stitch_count": 6
+    },
+    {
+      "round": 2,
+      "instruction": "[2 sc in each st] x 6",
+      "stitch_count": 12
+    },
+    {
+      "round": 3,
+      "instruction": "[2 sc in next st, 1 sc] x 6",
+      "stitch_count": 18
+    },
+    {
+      "round": 4,
+      "instruction": "[2 sc in next st, 2 sc] x 6",
+      "stitch_count": 24
+    },
+    {
+      "round": 5,
+      "instruction": "[2 sc in next st, 3 sc] x 6",
+      "stitch_count": 30
+    },
+    {
+      "round": 6,
+      "instruction": "[2 sc in next st, 4 sc] x 6",
+      "stitch_count": 36
+    },
+    {
+      "round": 7,
+      "instruction": "[2 sc in next st, 5 sc] x 6",
+      "stitch_count": 42
+    },
+    {
+      "round": 8,
+      "instruction": "[2 sc in next st, 6 sc] x 6",
+      "stitch_count": 48
+    }
+  ],
+
+  "under_wing_2": [
+    {
+      "round": 9,
+      "instruction": "[2 sc in next st, 7 sc] x 6, tie off",
+      "stitch_count": 54
+    }
+  ]
+}
