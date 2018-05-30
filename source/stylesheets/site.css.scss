@@ -60,25 +60,17 @@ a {
   display: flex;
   justify-content: center;
   padding: .5rem;
+  max-width: 480px;
+  margin: 0 auto;
 
-  @media (min-width: $desktop-bp) {
-    justify-content: flex-start;
-    margin: 0 auto;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    max-width: $max-page-width;
-  }
 }
 
 .content-container {
   display: flex;
   flex-direction: column;
   padding: .5rem;
-
-  @media (min-width: $desktop-bp) {
-    margin: 0 auto;
-    max-width: $max-page-width;
-  }
+  max-width: 480px;
+  margin: 0 auto;
 }
 
 .intro-container {
@@ -86,7 +78,7 @@ a {
 }
 
 .intro-image-container {
-  max-width: 400px;
+  max-width: 480px;
   margin: 0 auto;
   margin-bottom: 1rem;
 }
@@ -154,7 +146,7 @@ a {
 }
 
 .finishing-eyes-image-container {
-  max-width: 400px;
+  max-width: 480px;
   margin: 1rem auto;
 }
 
@@ -196,6 +188,8 @@ a {
   flex-direction: column;
   align-items: center;
   padding: .5rem;
+  max-width: 480px;
+  margin: 0 auto;
 }
 
 .footer-disclosure {
